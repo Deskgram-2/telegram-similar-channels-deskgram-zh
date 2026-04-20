@@ -1,13 +1,13 @@
-# Deskgram 2 Telegram 相似频道搜索
+﻿# Deskgram 2 Telegram 相似频道搜索
 
 Deskgram 2 的相似频道搜索模块适合在你已经掌握几个强来源后，继续沿着这些 seed 社区扩展 Telegram 来源地图。它比单纯反复猜关键词更聚焦，也更适合把 discovery 做深。
 
-[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=cn)
 ## 交互式 Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels&lang=cn)
 
-在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels)
+在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_similar_channels&lang=cn)
 
 
 
@@ -117,3 +117,4 @@ Seed 列表本身的质量。起点越准，扩展结果通常越干净。
 ### 能和其他 discovery 路线配合吗？
 
 可以。它非常适合接在关键词搜索之后，再进入 parser。
+
